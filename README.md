@@ -1,3 +1,3 @@
 # git
 ## descripcion
-Es un repositorio de exploración personal,gracias.
+Es un repositorio de exploración personal,gracias sad.
